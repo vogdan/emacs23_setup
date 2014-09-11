@@ -2,7 +2,7 @@ emacs_setup
 ===========
 
 Should provide code browsing (via ECB) and code copletion (via auto-complete and ac-python) for `python`, `bash` and `tcl` at least.
-    Worked for me on GNU Emacs 23.1.1 (Ubuntu) & 23.4.1 (Linux Mint). 
+    Worked for me on `GNU Emacs 23.1.1 (Ubuntu)` & `23.4.1 (Linux Mint)`. 
 
 
    
