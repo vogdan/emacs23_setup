@@ -10,6 +10,7 @@
  '(current-language-environment "Latin-1")
  '(default-input-method "latin-1-prefix")
  '(display-time-mode t)
+ '(ecb-layout-window-sizes (quote (("left6" (0.24603174603174602 . 0.2702702702702703) (0.24603174603174602 . 0.4864864864864865) (0.24603174603174602 . 0.21621621621621623)))))
  '(ecb-options-version "2.40")
  '(global-font-lock-mode t nil (font-lock))
  '(indent-tabs-mode nil)
@@ -77,7 +78,7 @@
 (line-number-mode t)                    ; show point location
 (column-number-mode t)
 (setq display-time-day-and-date t)      ; display time and date
-(setq make-backup-files nil)            ; don't create ~ backup files
+;;(setq make-backup-files nil)            ; don't create ~ backup files
 ;; enable some imo useful stuff
 (put 'narrow-to-region 'disabled nil)
 (put 'downcase-region 'disabled nil)
