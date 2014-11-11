@@ -1,8 +1,9 @@
 emacs_setup
 ===========
 
-Initially intended as a simple IDE for Python, this setup should provide code browsing (via ECB) and code copletion (via auto-complete and ac-python) for `python`, `bash` and `tcl` at least.
-    Worked for me on `GNU Emacs 23.1.1 (Ubuntu)` & `23.4.1 (Linux Mint)`. 
+Initially intended as a simple IDE for Python, this setup should provide code browsing (via ECB) and code copletion (via auto-complete and ac-python) for at least `python`, `bash` and `tcl`.
+
+Tested and worked on `GNU Emacs 23.1.1 (Ubuntu)` & `23.4.1 (Linux Mint)` (**32 bit**). 
 
 
    
